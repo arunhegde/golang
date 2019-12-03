@@ -1,2 +1,2 @@
 # golang
-Golang example projects
+Golang projects
