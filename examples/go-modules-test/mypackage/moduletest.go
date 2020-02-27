@@ -5,5 +5,5 @@ import (
 )
 
 func MyFunction() {
-	fmt.Println("Version v0.1.0 of this Function")
+	fmt.Println("Version v0.1.1 of this Function")
 }
